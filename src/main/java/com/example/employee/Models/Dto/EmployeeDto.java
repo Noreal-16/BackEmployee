@@ -11,7 +11,6 @@ import java.util.List;
 @Data
 public class EmployeeDto {
     private long id;
-
     private String identifier;
     private String firstName;
     private String lastName;
